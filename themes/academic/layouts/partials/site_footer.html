@@ -1,4 +1,4 @@
-<footer class="site-footer">
+<!-- <footer class="site-footer">
   {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
   <p class="powered-by">
     {{ with site.GetPage "privacy.md" }}
@@ -9,9 +9,9 @@
       {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
     {{ end }}
   </p>
-  {{ end }}
+  {{ end }} -->
 
-  <p class="powered-by">
+  <!-- <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
   </p>
 
@@ -32,5 +32,5 @@
       </a>
     </span>
     {{ end }}
-  </p>
+  </p> -->
 </footer>
