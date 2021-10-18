@@ -33,13 +33,8 @@ subtitle = ""
     name = "LSU Electives"
     tag = "LSU Electives"
   
-  [[content.filter_button]]
-    # name = "Other LSU Electives"
-    # tag = "Other LSU Electives"
 
-  # [[content.filter_button]]
-   # name = "Other Approved Electives"
-   # tag = "Other Approved Electives"
+  
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
