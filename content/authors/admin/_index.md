@@ -18,24 +18,24 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+# bio: 
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# # interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# education:
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,4 +70,24 @@ user_groups:
 - Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The Digital Design and Emergent Media pathway is designed to not only teach specific technical skills but to prepare students with marketable 21st century skills that are applicable	in any field.
+21st century skills can be broken down into three categories.
+
+{{< spoiler text="Learning Skills" >}}
+  - Critical thinking
+  - Creativity
+  - Collaboration
+  - Communication
+{{< /spoiler >}}
+{{< spoiler text="Literacy Skills" >}}
+  - Information literacy
+  - Media literacy
+  - Technology literacy
+{{< /spoiler >}}
+{{< spoiler text="Life Skills" >}}
+  - Flexibility
+  - Leadership
+  - Initiative
+  - Productivity
+  - Social skills
+{{< /spoiler >}}
