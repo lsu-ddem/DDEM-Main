@@ -39,3 +39,24 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+The Interactive Digital Media Capstone course brings together the core courses in Media Design and Production with the concepts of User Interface Design (UID), User Experience Design (UX), and creative coding to develop team based projects. This course emulates the industry production process and synthesizes media and digital storytelling from other production courses into emergent media projects.  
+
+Capstone Projects are teacher facilitated, student led teams creating a digital media artifact from conception to presentation. Example works might include a 2D or 3D video game, a student-developed social network web application, a movie or animation, interactive informational kiosk for a museum or library, or a concert of student-created digital media performances. 
+<br>
+<br>
+
+#### Course Objectives 
+- Demonstrate an understanding of integrity and ethics pertaining to digital media professions 
+- Demonstrate effective communication skills through team work, oral presentations, and written communication 
+- Use the design process to envision, implement, test, and redesign discipline specific projects to gain better appreciation of the process of creating engaging media 
+- Demonstrate the intersection of digital media and society by producing and exhibiting an emergent media artifact that becomes part of the student’s Digital Media Portfolio. 
+<br>
+<br>
+
+#### Assessing Performance 
+ 
+Students are assessed by obtaining weekly grades on the following: work ethic, quizzes, project, reports, presentations, and reflections as well as the final presentation of the design project.
+<br>
+<br>
+
+<a href="../../home/downloads/IDMCapstone.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Interactive Digital Media Capstone Syllabus </button></a>

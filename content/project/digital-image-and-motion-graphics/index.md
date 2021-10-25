@@ -39,3 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+These courses will be based on hands on training in the use computer hardware and software to create digital graphics, starting with the basics of Photoshop and Illustrator and continuing to Maya and Blender. As the student develops the familiarity with these industry standard programs and graphic tools 2D and 3D animation and design projects will be overseen by mentors. The 2D and 3D animation 
+partition of the class will focus on, rigging, planar tracking, rotoscoping, motion tracking in order to development, seamless continuity of character animation and dynamic set development. These will be offered as dual enrollment courses thru LSU.
+<br>
+<br>
+<a href="../../home/downloads/DigitalImage.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Digital Image and Motion Graphics Syllabus </button></a>
