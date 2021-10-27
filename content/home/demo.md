@@ -79,10 +79,10 @@ The LSU Digital Design and Emergent Media STEM Certification Pathway began in 20
 <br><br>
 
 Classes include:
+- Coding for the Web
 - Digital Storytelling 
 - Film & TV
 - Video Game Design
-- Coding for the Web
 - Sound Design
 - Programming Digital Media
 - Electives which can include AP and dual enrollment options
