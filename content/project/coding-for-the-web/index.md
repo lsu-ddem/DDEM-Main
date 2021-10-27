@@ -45,5 +45,17 @@ The class is a project based course. Students use codepen - an online platform f
 By the end of the class, students will have a firm grasp of JavaScript, and a working knowledge of HTML and CSS. They will be able to use their skills to code interactive web page features. As well as teaching students the foundations of JavaScript, Coding for the Web helps students engage with computational problem solving. Ultimately, students can use the skills they learn in this class to code with JavaScript, and learn other coding languages. 
 <br>
 <br>
+#### Course Objectives 
+
+- To seed programming interest in students so they feel confident and have the skills they need in order to launch a career in technology
+- Develop reasoning skills, cognitive constructive capabilities, and computational thinking skills
+- To provide the students with a solid foundation in the most common paradigms of computation and allow the students to integrate their own interests into the course 
+<br>
+<br>
+
+#### Assessing Performance 
+Students are assessed by obtaining weekly grades on the following: work ethic, projects, presentations, and reflections.
+<br>
+<br>
 
 <a href="../../home/downloads/CodingForTheWeb.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Coding for the Web Syllabus </button></a>

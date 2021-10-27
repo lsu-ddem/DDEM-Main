@@ -44,3 +44,22 @@ Programming Digital Media is a course designed to familiarize students with the 
 Throughout the Programming Digital Media Course students will experience the Javascript coding language and utilize it in order to generate their own real-time graphics and audio. Students will also learn how to add the computer logic necessary to turn these images and sounds into their own playable 2d video games.The next step if for students to learn the basics of electrical engineering as they develop their own controllers, able to influence the content of their custom games. This course culminates in students developing their own video game from the ground up; including graphics, audio, user interactions, and physical controls.
 
 **Keywords: javascript, graphics, audio, game, arduino, physical computing**
+<br>
+<br>
+
+#### Course Objectives
+- Demonstrate reasoning skills, cognitive constructive capabilities, and computational thinking 
+- Provide students with a solid foundation in common paradigms of computation and integrate these skills with their own interests 
+- Develop competencies in basic programming skills, graphics for the web, sound for the web, and physical computing 
+- Demonstrate these competencies through a final project that integrates graphics, sound, and 
+physical computing into a deliverable artifact 
+- Develop interest and confidence in working with digital media and computers so that students are enabled to consider a career that utilizes creative coding 
+<br>
+<br>
+
+#### Assessing Performance 
+Students are assessed by obtaining weekly grades on the following: work ethic, quizzes, and coding challenges. 
+<br>
+<br>
+
+<a href="../../home/downloads/PDM.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Programming Digital Media Syllabus </button></a>

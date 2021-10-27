@@ -53,7 +53,7 @@ partition of the class will focus on, rigging, planar tracking, rotoscoping, mot
 - Develop a design within a given set of restrictions. 
 - Use compositional studies to develop well-polished drawings/designs. 
 - Apply the following 3D concepts: modeling, texturing, lighting and rendering 
-- Apply the following VFX concepts: compositing, rotoscoping, mattes, image acquisition,keying, and match moving 
+- Apply the following VFX concepts: compositing, rotoscoping, mattes, image acquisition, keying, and match moving 
 - Apply the following Animation concepts: squash & stretch, staging, anticipation, straight ahead & pose to pose, follow through & overlapping, slow in & slow out, arcs, secondary action, timing, exaggeration, solid drawings, and appeal 
 <br>
 <br>
