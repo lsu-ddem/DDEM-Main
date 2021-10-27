@@ -59,4 +59,5 @@ The purpose of this course is to get our students to become creators rather than
 Students are assessed by obtaining weekly grades on the following: work ethic, projects, presentations, and reflections.  
 <br>
 <br>
+
 <a href="../../home/downloads/DigitalStorytelling.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Digital Storytelling Syllabus </button></a>

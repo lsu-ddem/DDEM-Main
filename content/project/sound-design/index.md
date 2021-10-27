@@ -45,3 +45,20 @@ Sound Design has students learning the fundamentals of music: what goes into wri
 In the Sound Design course students are exposed to a wide variety of music styles and production techniques. They begin by learning the fundamentals of music theory to serve as a baseboard for a variety of other topics. Following this, students learn how to arrange, process, and write music using Industry-leading Digital Audio Workstations such as Studio One and Pro Tools. This includes editing and compiling different recordings as well as generating their own music from scratch with software synthesizers. Students are also exposed to a variety of recording techniques and practices in order to take their own track from conception, to written music, to the recording studio, and finally to be mixed and mastered for listening.
 
 **Keywords: audio, processing, DAW, music theory, recording, industry**
+<br>
+<br>
+#### Course Objectives
+
+- Demonstrate an understanding of conceptual approaches to computer music composition, including concepts from Musique Concrète, tape-based music, synthesizers, and audio processing
+- Demonstrate an understanding of technical issues related to computer music, including working with digital audio and using Digital Audio Workstation software
+- Demonstrate technical and analytical listening skills through presentations and discussions. 
+- Produce multiple creative artifacts through music composition projects
+<br>
+<br>
+
+#### Assessing Performance 
+Students are assessed by obtaining weekly grades on the following: class participation, quizzes, lab assignments, presentations, and projects.
+<br>
+<br>
+
+<a href="../../home/downloads/SoundDesign.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Sound Design Syllabus </button></a>
