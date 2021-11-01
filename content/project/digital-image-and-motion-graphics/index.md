@@ -63,4 +63,4 @@ Students are assessed by obtaining weekly grades on the following: work ethic, p
 <br>
 <br>
 
-<a href="../../home/downloads/DigitalImage.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Digital Image and Motion Graphics Syllabus </button></a>
+<a href="../../downloads/DigitalImage.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Digital Image and Motion Graphics Syllabus </button></a>

@@ -59,4 +59,4 @@ Students are assessed by obtaining weekly grades on the following: work ethic, q
 <br>
 <br>
 
-<a href="../../home/downloads/IDMCapstone.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Interactive Digital Media Capstone Syllabus </button></a>
+<a href="../../downloads/IDMCapstone.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Interactive Digital Media Capstone Syllabus </button></a>

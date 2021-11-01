@@ -62,4 +62,4 @@ Students are assessed by obtaining weekly grades on the following: work ethic, q
 <br>
 <br>
 
-<a href="../../home/downloads/PDM.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Programming Digital Media Syllabus </button></a>
+<a href="../../downloads/PDM.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Programming Digital Media Syllabus </button></a>

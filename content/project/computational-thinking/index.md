@@ -60,4 +60,4 @@ This course introduces students to the basic ideas of computational thinking and
 <br>
 <br>
 
-<a href="../../home/downloads/ICT.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Introduction to Computational Thinking Syllabus </button></a>
+<a href="../../downloads/ICT.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Introduction to Computational Thinking Syllabus </button></a>

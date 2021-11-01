@@ -58,4 +58,4 @@ Students are assessed by obtaining weekly grades on the following: work ethic, p
 <br>
 <br>
 
-<a href="../../home/downloads/CodingForTheWeb.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Coding for the Web Syllabus </button></a>
+<a href="../../downloads/CodingForTheWeb.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Coding for the Web Syllabus </button></a>

@@ -60,4 +60,4 @@ Students are assessed by obtaining weekly grades on the following: work ethic, p
 <br>
 <br>
 
-<a href="../../home/downloads/DigitalStorytelling.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Digital Storytelling Syllabus </button></a>
+<a href="../../downloads/DigitalStorytelling.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Digital Storytelling Syllabus </button></a>
