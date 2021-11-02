@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-This course introduces students to the basic ideas of computational thinking and its applications to problem solving in STEM fields. Students will use an open source, Web-based programming environment to create code for simple drawings, animations and simulations, through which they learn how to use abstraction,decomposition and pattern recognition to model problems and arrive to an algorithmic solution. Program code is presented with a dual purpose: as the main way to interact with a computer and as a proxy to organize ideas explicitly and communicate them to other people. Students taking Algebra I concurrently with this course will benefit the most because many examples are drawn from Algebra I, so that students can visualize and manipulate the mathematical concepts in a more concrete form. 
+This course introduces students to the basic ideas of computational thinking and its applications to problem solving in STEM fields. Students will use an open source, Web-based programming environment to create code for simple drawings, animations and simulations, through which they learn how to use abstraction, decomposition, and pattern recognition to model problems and arrive to an algorithmic solution. Program code is presented with a dual purpose: as the main way to interact with a computer and as a proxy to organize ideas explicitly and communicate them to other people. Students taking Algebra I concurrently with this course will benefit the most because many examples are drawn from Algebra I, so that students can visualize and manipulate the mathematical concepts in a more concrete form. 
 <br>
 <br>
 

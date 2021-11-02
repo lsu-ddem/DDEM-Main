@@ -78,15 +78,9 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 The LSU Digital Design and Emergent Media STEM Certification Pathway began in 2016 with the goal of increasing the number of students taking high-quality LSU STEM courses from LSU-trained and supported teachers. The three pillars of the pathway are: computational thinking, 21st century skills, and design knowledge for a variety of media.
 <br><br>
 
-Classes include:
-- Coding for the Web
-- Digital Storytelling 
-- Film & TV
-- Video Game Design
-- Sound Design
-- Programming Digital Media
-- Electives which can include AP and dual enrollment options
+<center>
 
+![](../images/featured2.jpg)
 
-
+</center>
 <br>

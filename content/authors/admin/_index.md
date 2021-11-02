@@ -69,9 +69,42 @@ user_groups:
 - Researchers
 - Visitors
 ---
+The Digital Design and Emergent Media pathway teaches industry-based skills that prepare students for ... 
 
-The Digital Design and Emergent Media pathway is designed to not only teach specific technical skills but to prepare students with marketable 21st century skills that are applicable	in any field.
-21st century skills can be broken down into three categories.
+{{< spoiler text="Creative Coding" >}}
+- User Interface Design (UID)
+- User Experience Design (UX)
+- Arduino
+- Social network 
+- web applications
+- JavaScript
+- interactive web pages
+- phyiscal computing
+{{< /spoiler >}}
+
+{{< spoiler text="Audio Technology" >}}
+- Music theory and composition
+- Software synthesizers
+- DAWs such as Studio One and Protools
+- Recording techniques
+- Mixing and mastering
+{{< /spoiler >}}
+{{< spoiler text="Film and Graphics" >}}
+- 2D and 3D game design
+- 2D and 3D animation
+- Digital graphics 
+- Photoshop
+- Illustrator
+- rigging
+- planar tracking
+- rotoscoping
+- motion tracking 
+- Maya
+- Blender
+{{< /spoiler >}}
+
+<br>
+DDEM classes are designed to not only teach specific technical skills but to prepare students with marketable 21st century skills that are applicable	in any field. 21st century skills can be broken down into three categories:
 
 {{< spoiler text="Learning Skills" >}}
   - Critical thinking
