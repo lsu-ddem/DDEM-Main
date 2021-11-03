@@ -29,10 +29,12 @@ subtitle = "## *A Part of LSU Pathways*"
   gradient_end = "#00d4ff"
   
   # Background image.
-  # image = "turquoise.jpg"  # Name of image in `static/img/`.
+  image = "../images/canvas1.png"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_size = "actual" 
+   #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "center"  
+  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
@@ -74,13 +76,19 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 **To remove this section, delete `content/home/demo.md`.**
 {{% /alert %}} -->
 
-<br>
-The LSU Digital Design and Emergent Media STEM Certification Pathway began in 2016 with the goal of increasing the number of students taking high-quality LSU STEM courses from LSU-trained and supported teachers. The three pillars of the pathway are: computational thinking, 21st century skills, and design knowledge for a variety of media.
-<br><br>
+<div style="background-color: #0fbaad; ">
 
+<br>
 <center>
 
-![](../images/featured2.jpg)
-
+The LSU Digital Design and Emergent Media STEM Certification Pathway began in 2016 with the goal of increasing the number of students taking high-quality LSU STEM courses from LSU-trained and supported teachers. The three pillars of the pathway are: computational thinking, 21st century skills, and design knowledge for a variety of media.
 </center>
+<br>
+</div>
+
+<!-- <center> -->
+
+<!-- ![](../images/featured4.jpg) -->
+
+<!-- </center> -->
 <br>
