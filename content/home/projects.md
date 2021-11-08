@@ -57,11 +57,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "navy"
+  color = "#0fbaad"
   
   # Background gradient.
-   gradient_start = "#00d4ff"
-  gradient_end = "#0fbaad"
+   # gradient_start = "#00d4ff"
+  # gradient_end = "#0fbaad"
   
   # Background image.
   image = "../images/canvas1.png"  # Name of image in `static/img/`.
