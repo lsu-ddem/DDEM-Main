@@ -14,25 +14,45 @@ design:
 <center >
 
 ## **Student Work** 
+<br>
 
 ## Programming Digital Media
+
+#### Motion Graphics and Interactive Media in p5
 
 <br>
 <iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/mbardin/embed/_cjez20IT"></iframe>
 
 <iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/mbardin/embed/pCUkOMW55"></iframe>
 
-<iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://preview.p5js.org/mbardin/embed/2TB1Lf6W8"></iframe>
-
 <iframe style="width: 763px; height: 763px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/mbardin/embed/X18owCD-r"></iframe> 
 
+<iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://preview.p5js.org/mbardin/embed/2TB1Lf6W8"></iframe>
 
-<iframe style="width: 763px; height: 763px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/mbardin/embed/-TOkHhfiO"></iframe>
+<iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0"  src="https://preview.p5js.org/maritza.gonzalez/embed/ZtDuYh5Ws"></iframe>
 
+<iframe style="width: 800px; height: 800px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/mbardin/embed/-TOkHhfiO"></iframe>
 
+<br>
+<br>
+<br>
 
+## Digital Story Telling
 
+#### Photography
+![](../images/NaturePhoto1.jpg)
 
+![](../images/NaturePhoto2.jpg)
 
+![](../images/NaturePhoto3.jpg)
+
+![](../images/NaturePhoto4.jpg)
+
+![](../images/NaturePhoto5.jpg)
+
+<br>
+
+#### Graphic Novels and Comics
+![](../images/Comic.png)
 
 </center>
