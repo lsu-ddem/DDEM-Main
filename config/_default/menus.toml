@@ -19,9 +19,14 @@ name = "Home"
   weight = 3
 
 [[main]]
+  name = "Student Work"
+  url = "studentwork/"
+  weight = 4
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 4
+  weight = 5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
