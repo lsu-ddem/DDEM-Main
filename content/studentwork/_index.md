@@ -36,7 +36,7 @@ design:
 <br>
 <br>
 
-## Digital Story Telling
+## Digital Storytelling
 
 #### Photography
 ![](../images/NaturePhoto1.jpg)
