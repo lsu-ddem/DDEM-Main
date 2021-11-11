@@ -56,7 +56,7 @@ design:
 
 <br>
 
-#### Music Composition with Found Sounds
+#### Music Composition and Recording Technology
 <br>
 
 <a href="../audio/../../../audio/Audio1.mp3" target="_blank">Untitled 1</a>
