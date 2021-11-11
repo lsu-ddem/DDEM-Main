@@ -54,5 +54,17 @@ design:
 #### Graphic Novels and Comics
 ![](../images/Comic.png)
 
+<br>
 
+#### Music Composition with Found Sounds
+<br>
+
+<a href="../audio/../../../audio/Audio1.mp3" target="_blank">Untitled 1</a>
+
+<a href="../audio/../../../audio/Audio2.mp3" target="_blank">Untitled 2</a>
+
+<a href="../audio/../../../audio/Audio3.mp3" target="_blank">Untitled 3</a>
 </center>
+
+<br>
+<br>
