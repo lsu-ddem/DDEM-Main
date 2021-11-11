@@ -13,7 +13,7 @@ design:
 ---
 <center >
 
-## **DDEM Student Work** 
+# **DDEM Student Work** 
 <br>
 
 ## Programming Digital Media

@@ -76,19 +76,13 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 **To remove this section, delete `content/home/demo.md`.**
 {{% /alert %}} -->
 
-<div style="background-color: #0fbaad; ">
+<div style="background-color: #0fbaad; padding: 50px;  ">
 
-<br>
-<center>
+The LSU Digital Design and Emergent Media STEM Certification Pathway began in 2016 with the goal of increasing the number of students taking high-quality LSU STEM courses from LSU-trained and supported teachers. 
 
-The LSU Digital Design and Emergent Media STEM Certification Pathway began in 2016 with the goal of increasing the number of students taking high-quality LSU STEM courses from LSU-trained and supported teachers. The three pillars of the pathway are: computational thinking, 21st century skills, and design knowledge for a variety of media.
-</center>
-<br>
+The three pillars of the DDEM pathway are: 
+- Computational thinking
+- 21st century skills
+- Design knowledge for a variety of media
 </div>
-
-<!-- <center> -->
-
-<!-- ![](../images/featured4.jpg) -->
-
-<!-- </center> -->
 <br>

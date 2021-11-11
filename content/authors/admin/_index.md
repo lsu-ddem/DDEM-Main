@@ -69,7 +69,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-The Digital Design and Emergent Media pathway teaches industry-based skills that prepare students for ... 
+The Digital Design and Emergent Media pathway teaches industry-based technical skills that prepare students for a career in creative technology. Click a dropdown to view some of the specific technical skills that are covered.
 
 {{< spoiler text="Creative Coding" >}}
 - User Interface Design (UID)
@@ -104,7 +104,7 @@ The Digital Design and Emergent Media pathway teaches industry-based skills that
 {{< /spoiler >}}
 
 <br>
-DDEM classes are designed to not only teach specific technical skills but to prepare students with marketable 21st century skills that are applicable	in any field. 21st century skills can be broken down into three categories:
+DDEM classes are also designed to prepare students with marketable 21st century skills that are applicable	in any field. 21st century skills can be broken down into three categories:
 
 {{< spoiler text="Learning Skills" >}}
   - Critical thinking

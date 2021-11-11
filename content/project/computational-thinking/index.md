@@ -58,6 +58,5 @@ This course introduces students to the basic ideas of computational thinking and
 - Formative assessment includes worksheets, practice activities for each lesson, and unit quizzes
 - Summative assessment includes a programming project at the end of each unit  
 <br>
-<br>
 
 <a href="../../downloads/ICT.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Introduction to Computational Thinking Syllabus </button></a>
