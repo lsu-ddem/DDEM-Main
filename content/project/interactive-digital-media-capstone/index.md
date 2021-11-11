@@ -50,13 +50,6 @@ Capstone Projects are teacher facilitated, student led teams creating a digital 
 - Demonstrate effective communication skills through team work, oral presentations, and written communication 
 - Use the design process to envision, implement, test, and redesign discipline specific projects to gain better appreciation of the process of creating engaging media 
 - Demonstrate the intersection of digital media and society by producing and exhibiting an emergent media artifact that becomes part of the student’s Digital Media Portfolio. 
-<br>
-<br>
 
-#### Assessing Performance 
- 
-Students are assessed by obtaining weekly grades on the following: work ethic, quizzes, project, reports, presentations, and reflections as well as the final presentation of the design project.
-<br>
-<br>
 
 <a href="../../downloads/IDMCapstone.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Interactive Digital Media Capstone Syllabus </button></a>

@@ -55,12 +55,6 @@ partition of the class will focus on, rigging, planar tracking, rotoscoping, mot
 - Apply the following 3D concepts: modeling, texturing, lighting and rendering 
 - Apply the following VFX concepts: compositing, rotoscoping, mattes, image acquisition, keying, and match moving 
 - Apply the following Animation concepts: squash & stretch, staging, anticipation, straight ahead & pose to pose, follow through & overlapping, slow in & slow out, arcs, secondary action, timing, exaggeration, solid drawings, and appeal 
-<br>
-<br>
 
-#### Assessing Performance
-Students are assessed by obtaining weekly grades on the following: work ethic, projects, presentations, and reflections. Using tutorials, help menus, discussion boards, and targeted research are imperative to the creative process, as is exchanging information and ideas with peers. 
-<br>
-<br>
 
 <a href="../../downloads/DigitalImage.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Digital Image and Motion Graphics Syllabus </button></a>

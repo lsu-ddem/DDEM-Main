@@ -52,12 +52,6 @@ The purpose of this course is to get our students to become creators rather than
 - Use information and communication technologies to find, evaluate, create, and communicate information, requiring both cognitive and technical skills
 - Use skills that they learn and the appropriate technology to communicate and collaborate with peers, colleagues, family, and the general public
 - Use these skills to actively participate in civic society and contribute to a vibrant, informed, and engaged community
-<br>
-<br>
 
-#### Assessing Performance 
-Students are assessed by obtaining weekly grades on the following: work ethic, projects, presentations, and reflections.  
-<br>
-<br>
 
 <a href="../../downloads/DigitalStorytelling.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Digital Storytelling Syllabus </button></a>

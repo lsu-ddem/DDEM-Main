@@ -53,12 +53,6 @@ In the Sound Design course students are exposed to a wide variety of music style
 - Demonstrate an understanding of technical issues related to computer music, including working with digital audio and using Digital Audio Workstation software
 - Demonstrate technical and analytical listening skills through presentations and discussions. 
 - Produce multiple creative artifacts through music composition projects
-<br>
-<br>
 
-#### Assessing Performance 
-Students are assessed by obtaining weekly grades on the following: class participation, quizzes, lab assignments, presentations, and projects.
-<br>
-<br>
 
 <a href="../../downloads/SoundDesign.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Sound Design Syllabus </button></a>

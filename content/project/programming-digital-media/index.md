@@ -54,12 +54,6 @@ Throughout the Programming Digital Media Course students will experience the Jav
 - Demonstrate these competencies through a final project that integrates graphics, sound, and 
 physical computing into a deliverable artifact 
 - Develop interest and confidence in working with digital media and computers so that students are enabled to consider a career that utilizes creative coding 
-<br>
-<br>
 
-#### Assessing Performance 
-Students are assessed by obtaining weekly grades on the following: work ethic, quizzes, and coding challenges. 
-<br>
-<br>
 
 <a href="../../downloads/PDM.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Programming Digital Media Syllabus </button></a>
