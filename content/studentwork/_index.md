@@ -36,6 +36,20 @@ design:
 <br>
 <br>
 
+## Sound Design
+
+#### Music Composition and Recording Technology
+<br>
+
+<a href="../audio/../../../audio/Audio1.mp3" target="_blank">Untitled 1</a>
+
+<a href="../audio/../../../audio/Audio2.mp3" target="_blank">Untitled 2</a>
+
+<a href="../audio/../../../audio/Audio3.mp3" target="_blank">Untitled 3</a>
+<br>
+<br>
+<br>
+
 ## Digital Storytelling
 
 #### Photography
@@ -48,22 +62,13 @@ design:
 ![](../images/NaturePhoto4.jpg)
 
 ![](../images/NaturePhoto5.jpg)
-
 <br>
 
 #### Graphic Novels and Comics
 ![](../images/Comic.png)
-
 <br>
 
-#### Music Composition and Recording Technology
-<br>
 
-<a href="../audio/../../../audio/Audio1.mp3" target="_blank">Untitled 1</a>
-
-<a href="../audio/../../../audio/Audio2.mp3" target="_blank">Untitled 2</a>
-
-<a href="../audio/../../../audio/Audio3.mp3" target="_blank">Untitled 3</a>
 </center>
 
 <br>
