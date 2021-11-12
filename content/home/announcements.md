@@ -59,7 +59,7 @@ Teens Teaching Tech is a video contest where students who understand a topic in 
 
 <br>
 
-#### For more instructions on how to submit your project, follow the link at the button below.
+#### For more instructions on how to submit your project, follow the links below.
 <br>
 <a href="../../downloads/T3Flyer.pdf" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> Teens Teaching Tech Flyer </button></a> <a href="https://forms.gle/drx4sFo1FPH74AJe7" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> Submission Portal</button></a> 
 <br>

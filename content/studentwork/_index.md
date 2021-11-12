@@ -12,14 +12,23 @@ design:
   columns: '1'
 ---
 <center >
+<div style="background-image: url('../images/canvas1a.png'); padding: 15px; ">
+<br>
 
 # **DDEM Student Work** 
+<br>
+<a href="#PDM"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Programming Digital Media </button></a> 
+<a href="#SoundDesign"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Sound Design </button></a> <a href="#DigitalStorytelling"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Digital Storytelling </button></a>
+<br>
+<br>
+</div>
+<br>
+<a id = "PDM">
 <br>
 
 ## Programming Digital Media
 
-#### Motion Graphics and Interactive Media in p5
-
+#### Motion Graphics and Interactive Media in P5
 <br>
 <iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/mbardin/embed/_cjez20IT"></iframe>
 
@@ -33,7 +42,9 @@ design:
 
 <iframe style="width: 800px; height: 800px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/mbardin/embed/-TOkHhfiO"></iframe>
 <br>
+</a>
 <br>
+<a id = "SoundDesign">
 <br>
 
 ## Sound Design
@@ -47,12 +58,14 @@ design:
 
 <a href="../audio/../../../audio/Audio3.mp3" target="_blank">Untitled 3</a>
 <br>
+</a>
 <br>
+<a id = "DigitalStorytelling">
 <br>
 
 ## Digital Storytelling
 
-#### Photography
+#### Photography, Digital Graphics, and Interactive Storytelling
 ![](../images/NaturePhoto1.jpg)
 
 ![](../images/NaturePhoto2.jpg)
@@ -62,12 +75,10 @@ design:
 ![](../images/NaturePhoto4.jpg)
 
 ![](../images/NaturePhoto5.jpg)
-<br>
 
-#### Graphic Novels and Comics
 ![](../images/Comic.png)
 <br>
-
+</a>
 
 </center>
 
