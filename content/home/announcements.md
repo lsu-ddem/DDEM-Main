@@ -52,7 +52,7 @@ weight = 2  # Order that this section will appear.
 <div style="background-color:#0fbaad; padding: 50px; border-style: solid;">
 
 ## **Teens Teaching Tech Call for Work** 
-## Due Friday, December 3, 2021
+## Due Friday, December 17, 2021
 
 <br>
 Teens Teaching Tech is a video contest where students who understand a topic in technology can present a short video lesson. This is a great way to deepen students’ understanding of a topic by allowing them to explain something they find interesting in a creative way and receive constructive feedback regarding their presentations.  
