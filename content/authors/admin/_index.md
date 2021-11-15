@@ -104,7 +104,7 @@ The Digital Design and Emergent Media pathway teaches industry-based technical s
 {{< /spoiler >}}
 
 <br>
-DDEM classes are also designed to prepare students with marketable 21st century skills that are applicable	in any field. 21st century skills can be broken down into three categories:
+DDEM classes are also designed to prepare students with marketable 21st century skills that are applicable in any field. 21st century skills can be broken down into three categories:
 
 {{< spoiler text="Learning Skills" >}}
   - Critical thinking
@@ -126,7 +126,7 @@ DDEM classes are also designed to prepare students with marketable 21st century 
 {{< /spoiler >}}
 
 <br>
-DDEM is currently offered at 17 school around Louisiana. Click the drop down to view the full list.
+DDEM is currently offered at 17 schools around Louisiana. Click the drop down to view the full list.
 <br>
 <br>
 {{< spoiler text="DDEM School List" >}}
