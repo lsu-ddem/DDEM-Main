@@ -126,7 +126,7 @@ DDEM classes are also designed to prepare students with marketable 21st century 
 {{< /spoiler >}}
 
 <br>
-DDEM is currently offered at 17 schools around Louisiana. Click the drop down to view the full list.
+DDEM is currently offered at 17 schools across Louisiana. Click the dropdown to view the full list.
 <br>
 <br>
 {{< spoiler text="DDEM School List" >}}
