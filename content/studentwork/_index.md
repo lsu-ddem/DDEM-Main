@@ -40,7 +40,7 @@ design:
 
 <iframe style="width: 801px; height: 801px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/LSU-DDEM/full/ZScF_lf7F"></iframe>
 
-<iframe style="width: 800px; height: 800px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/LSU-DDEM/full/rrNloNYCU"></iframe> 
+<!-- <iframe style="width: 800px; height: 800px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/LSU-DDEM/full/rrNloNYCU"></iframe>  -->
 <br>
 </a>
 <br>
@@ -68,19 +68,22 @@ design:
 
 #### Photography, Digital Graphics, and Interactive Storytelling
 
-<a href="../images/NaturePhoto1.jpg" target ="_blank"><img src="../images/NaturePhoto1tn.jpg" alt ="Mushroom and Grass"></a> <a href="../images/NaturePhoto2.jpg" target ="_blank"><img src="../images/NaturePhoto2tn.jpg" alt ="Wasps on Nest"></a> 
+<img src="../images/NaturePhoto1.jpg" alt ="Mushroom and Grass" width = 700px>
 
-<a href="../images/NaturePhoto3.jpg" target ="_blank"><img src="../images/NaturePhoto3tn.jpg" alt ="Tree and Blue Sky"></a> <a href="../images/NaturePhoto4.jpg" target ="_blank"><img src="../images/NaturePhoto4tn.jpg" alt ="Fallen Tree and Grass"></a> 
+<img src="../images/NaturePhoto2.jpg" alt ="Wasps on Nest" width = 700px>
 
-<a href="../images/NaturePhoto5.jpg" target ="_blank"><img src="../images/NaturePhoto5tn.jpg" alt ="Spanish Moss and Web"></a> <a href="../images/NaturePhoto6.jpg" target ="_blank"> <img src="../images/NaturePhoto6tn.jpg" alt ="Raindrops on Small Green Plant and Grass"></a>
+<img src="../images/NaturePhoto3.jpg" alt ="Tree and Blue Sky" width = 700px>
 
+<img src="../images/NaturePhoto4.jpg" alt ="Fallen Tree and Grass" width = 700px>
 
-<a href="../images/Comic.png" target ="_blank"><img src="../images/Comictn.png" alt ="Comic Panels" style = "float: middle"></a>
+<img src="../images/NaturePhoto5.jpg" alt ="Spanish Moss and Web" width = 700px>
 
+<img src="../images/NaturePhoto6.jpg" alt ="Raindrops on Small Green Plant and Grass" width = 700px>
+
+<a href ="../images/comic.png" target = "_blank"><img src="../images/comic.png" alt ="Comic Panels" width = 720px></a>
 <br>
 </a>
 </center>
-
 
 <br>
 <br>
