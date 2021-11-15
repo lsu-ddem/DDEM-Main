@@ -30,17 +30,17 @@ design:
 
 #### Motion Graphics and Interactive Media in P5
 <br>
-<iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/mbardin/embed/_cjez20IT"></iframe>
+<iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/LSU-DDEM/full/LirKIYzE_"></iframe>
 
-<iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/mbardin/embed/pCUkOMW55"></iframe>
+<iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/LSU-DDEM/full/0256HCqH1"></iframe>
 
-<iframe style="width: 763px; height: 763px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/mbardin/embed/X18owCD-r"></iframe> 
+<iframe style="width: 800px; height: 800px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/LSU-DDEM/full/rrNloNYCU"></iframe> 
 
-<iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://preview.p5js.org/mbardin/embed/2TB1Lf6W8"></iframe>
+<iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/LSU-DDEM/full/A8THU4sOr"></iframe>
 
-<iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0"  src="https://preview.p5js.org/maritza.gonzalez/embed/ZtDuYh5Ws"></iframe>
+<iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0"  src="https://editor.p5js.org/LSU-DDEM/full/xDUszLT3k"></iframe>
 
-<iframe style="width: 800px; height: 800px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/mbardin/embed/-TOkHhfiO"></iframe>
+<iframe style="width: 801px; height: 801px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/LSU-DDEM/full/ZScF_lf7F"></iframe>
 <br>
 </a>
 <br>
