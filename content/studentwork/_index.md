@@ -51,12 +51,13 @@ design:
 
 #### Music Composition and Recording Technology
 <br>
-
-<a href="../audio/../../../audio/Audio1.mp3" target="_blank">Untitled 1</a>
-
-<a href="../audio/../../../audio/Audio2.mp3" target="_blank">Untitled 2</a>
-
-<a href="../audio/../../../audio/Audio3.mp3" target="_blank">Untitled 3</a>
+<a href="../audio/../../../audio/Audio1.mp3" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> &#9658; Untitled 1 </button></a> 
+<br>
+<br>
+<a href="../audio/../../../audio/Audio2.mp3" target="_blank"><button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> &#9658; Untitled 2 </button></a> 
+<br>
+<br>
+<a href="../audio/../../../audio/Audio3.mp3" target="_blank"><button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> &#9658; Untitled 3 </button></a> 
 <br>
 </a>
 <br>
@@ -66,6 +67,7 @@ design:
 ## Digital Storytelling
 
 #### Photography, Digital Graphics, and Interactive Storytelling
+
 ![](../images/NaturePhoto1.jpg)
 
 ![](../images/NaturePhoto2.jpg)
