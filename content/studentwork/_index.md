@@ -28,7 +28,7 @@ design:
 
 ## Programming Digital Media
 
-#### Motion Graphics and Interactive Media in P5
+#### Motion Graphics and Interactive Media in p5
 <br>
 <iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/LSU-DDEM/full/LirKIYzE_"></iframe>
 
