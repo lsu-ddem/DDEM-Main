@@ -68,12 +68,11 @@ design:
 
 #### Photography, Digital Graphics, and Interactive Storytelling
 
-
 <a href="../images/NaturePhoto1.jpg" target ="_blank"><img src="../images/NaturePhoto1tn.jpg" alt ="Mushroom and Grass"></a> <a href="../images/NaturePhoto2.jpg" target ="_blank"><img src="../images/NaturePhoto2tn.jpg" alt ="Wasps on Nest"></a> 
 
 <a href="../images/NaturePhoto3.jpg" target ="_blank"><img src="../images/NaturePhoto3tn.jpg" alt ="Tree and Blue Sky"></a> <a href="../images/NaturePhoto4.jpg" target ="_blank"><img src="../images/NaturePhoto4tn.jpg" alt ="Fallen Tree and Grass"></a> 
 
-<a href="../images/NaturePhoto5.jpg" target ="_blank"><img src="../images/NaturePhoto5tn.jpg" alt ="Spanish Moss and Web"></a> <a href="../images/NaturePhoto5.jpg" target ="_blank"> <img src="../images/NaturePhoto6tn.jpg" alt ="Raindrops on Small Green Plant and Grass"></a>
+<a href="../images/NaturePhoto5.jpg" target ="_blank"><img src="../images/NaturePhoto5tn.jpg" alt ="Spanish Moss and Web"></a> <a href="../images/NaturePhoto6.jpg" target ="_blank"> <img src="../images/NaturePhoto6tn.jpg" alt ="Raindrops on Small Green Plant and Grass"></a>
 
 
 <a href="../images/Comic.png" target ="_blank"><img src="../images/Comictn.png" alt ="Comic Panels" style = "float: middle"></a>
