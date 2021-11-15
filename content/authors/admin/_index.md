@@ -69,7 +69,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-The Digital Design and Emergent Media pathway teaches industry-based technical skills that prepare students for a career in creative technology. Click a dropdown to view some of the specific technical skills that are covered.
+The Digital Design and Emergent Media pathway teaches industry-based technical skills that prepare students for a career in creative technology. Click a dropdown to view some of the specific skills that are covered.
 
 {{< spoiler text="Creative Coding" >}}
 - User Interface Design (UID)
@@ -123,4 +123,29 @@ DDEM classes are also designed to prepare students with marketable 21st century 
   - Initiative
   - Productivity
   - Social skills
+{{< /spoiler >}}
+
+<br>
+DDEM is currently offered at 17 school around Louisiana. Click the drop down to view the full list.
+<br>
+<br>
+{{< spoiler text="DDEM School List" >}}
+
+- Amite High School
+- Benjamin Franklin High School
+- Carencro High School
+- Denham Springs High School
+- Istrouma High School
+- Kentwood High Magnet School
+- Liberty Magnet High School
+- LSU University Laboratory School
+- Morehouse Magnet School
+- Peabody Magnet High School / CTEP Program
+- Pointe Coupee STEM Magnet Academy
+- Ponchatoula High School
+- St. Amant High School
+- St. James High School
+- St. John STEM Magnet High School Program
+- Tara High School
+- Zachary High School
 {{< /spoiler >}}
