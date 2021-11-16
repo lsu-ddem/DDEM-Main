@@ -126,11 +126,10 @@ DDEM classes are also designed to prepare students with marketable 21st century 
 {{< /spoiler >}}
 
 <br>
-DDEM is currently offered at 17 schools across Louisiana. Click the dropdown to view the full list.
+The Digital Design and Emergent Media Pathway is currently offered at 17 schools across Louisiana.
 <br>
 <br>
-{{< spoiler text="DDEM School List" >}}
-
+{{< spoiler text="Full DDEM School List" >}}
 - Amite High School
 - Benjamin Franklin High School
 - Carencro High School
@@ -149,3 +148,4 @@ DDEM is currently offered at 17 schools across Louisiana. Click the dropdown to 
 - Tara High School
 - Zachary High School
 {{< /spoiler >}}
+
