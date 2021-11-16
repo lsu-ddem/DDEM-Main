@@ -79,7 +79,7 @@ The Digital Design and Emergent Media pathway teaches industry-based technical s
 - web applications
 - JavaScript
 - interactive web pages
-- phyiscal computing
+- physical computing
 {{< /spoiler >}}
 
 {{< spoiler text="Audio Technology" >}}
