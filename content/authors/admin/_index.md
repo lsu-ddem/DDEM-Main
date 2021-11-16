@@ -81,7 +81,6 @@ The Digital Design and Emergent Media pathway teaches industry-based technical s
 - interactive web pages
 - physical computing
 {{< /spoiler >}}
-
 {{< spoiler text="Audio Technology" >}}
 - Music theory and composition
 - Software synthesizers
@@ -127,8 +126,8 @@ DDEM classes are also designed to prepare students with marketable 21st century 
 
 <br>
 The DDEM Pathway is currently offered at 17 schools across Louisiana.
-<br>
 
+{{< spoiler text="DDEM School List" >}}
 - Amite High School
 - Benjamin Franklin High School
 - Carencro High School
@@ -146,5 +145,61 @@ The DDEM Pathway is currently offered at 17 schools across Louisiana.
 - St. John STEM Magnet High School Program
 - Tara High School
 - Zachary High School
-
-
+{{< /spoiler >}}
+{{< spoiler text="DDEM School List by Course Offering" >}}
+- Advanced Film & TV
+  - Benjamin Franklin High School
+  - Denham Springs High School
+  - Istrouma High School
+  - Liberty Magnet High School
+- Basic Film & TV
+  - Benjamin Franklin High School
+  - Denham Springs High School
+  - Istrouma High School
+  - Liberty Magnet High School
+  - LSU University Laboratory School
+  - St. Amant High School
+- Coding for the Web
+  - Amite High School
+  - Liberty Magnet High School
+  - Peabody Magnet High School
+  - Pointe Coupee STEM Magnet Academy
+  - St. John STEM Magnet High School Program
+  - Tara High School
+- Digital Image and Motion Graphics
+  - Amite High School
+  - Benjamin Franklin High School
+  - Liberty Magnet High School
+  - Ponchatoula High School
+  - St. John STEM Magnet High School Program
+  - Zachary High School
+- Digital Media Capstone
+  - Istrouma High School
+- Digital Storytelling
+  - Benjamin Franklin High School
+  - Carencro High School
+  - Denham Springs High School
+  - Istrouma High School
+  - Kentwood High Magnet School
+  - Liberty Magnet High School
+  - Morehouse Magnet School
+  - Peabody Magnet High School
+  - Pointe Coupee STEM Magnet Academy
+  - St. Amant High School
+  - St. John STEM Magnet High School Program
+  - Tara High School
+  - Zachary High School
+- Programming Digital Media
+  - Denham Springs High School
+  - Liberty Magnet High School
+  - Peabody Magnet High School
+  - Pointe Coupee STEM Magnet Academy
+  - St. John STEM Magnet High School Program
+- Sound Design
+  - Amite High School
+  - Denham Springs High School
+  - Liberty Magnet High School
+  - Peabody Magnet High School
+- Video Game Design
+  - Zachary High School
+{{< /spoiler >}}
