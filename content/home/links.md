@@ -48,16 +48,18 @@ title = "Links"
  # CSS class.
  css_class = ""
 +++
-<br>
+<div style="background-color:#F9F5F4; padding: 50px;">
 Some of the DDEM classes have accompanying videos introducing the curriculum. 
 <br>
 <br>
-<a href="https://lsupathways.org/news/#DDEM" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> DDEM Class Introduction Videos </button></a> 
+<a href="https://lsupathways.org/news/#DDEM" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> DDEM Class Introduction Videos </button></a> 
 <br>
 <br>
 To learn more about LSU STEM Pathways as a whole, follow the link below.
 <br>
 <br>
-<a href="https://lsupathways.org/" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> LSUPathways.org </button></a>
+<a href="https://lsupathways.org/" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> LSUPathways.org </button></a>
+<br>
+</div>
 <br>
 <br>
