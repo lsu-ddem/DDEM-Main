@@ -125,7 +125,7 @@ DDEM classes are also designed to prepare students with marketable 21st century 
 {{< /spoiler >}}
 
 <br>
-The DDEM Pathway is currently offered at 17 schools across Louisiana.
+The DDEM pathway is currently offered at 17 schools across Louisiana.
 
 {{< spoiler text="DDEM School List" >}}
 - Amite High School
@@ -148,7 +148,6 @@ The DDEM Pathway is currently offered at 17 schools across Louisiana.
 {{< /spoiler >}}
 {{< spoiler text="DDEM School List by Course Offering" >}}
 - Advanced Film & TV
-  - Benjamin Franklin High School
   - Denham Springs High School
   - Istrouma High School
   - Liberty Magnet High School
@@ -186,6 +185,20 @@ The DDEM Pathway is currently offered at 17 schools across Louisiana.
   - Peabody Magnet High School
   - Pointe Coupee STEM Magnet Academy
   - St. Amant High School
+  - St. James High School
+  - St. John STEM Magnet High School Program
+  - Tara High School
+  - Zachary High School
+- Introduction to Computational Thinking
+  - Benjamin Franklin High School
+  - Denham Springs High School
+  - Istrouma High School
+  - Liberty High School
+  - Morehouse Magnet School
+  - Peabody Magnet High School
+  - Pointe Coupee STEM Magnet Academy
+  - St. Amant High School
+  - St. James High School
   - St. John STEM Magnet High School Program
   - Tara High School
   - Zachary High School
