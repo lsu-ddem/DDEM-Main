@@ -49,6 +49,12 @@ title = "Links"
  css_class = ""
 +++
 <div style="background-color:#0fbaad; padding: 50px; border-style: solid;">
+For more information on the DDEM Pathway and printable flyers, please click a link below.
+<br>
+<br>
+<a href="../downloads/DDEMStudents.pdf" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> DDEM Student Flyer </button></a> <a href="../downloads/DDEMTeachers.pdf" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> DDEM Teacher Flyer </button></a> <a href="../downloads/DDEMAdmin.pdf" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> DDEM Administration Flyer </button></a> 
+<br>
+<br>
 Some of the DDEM classes have accompanying videos introducing the curriculum. 
 <br>
 <br>
