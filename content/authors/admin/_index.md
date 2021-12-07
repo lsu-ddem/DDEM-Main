@@ -76,10 +76,10 @@ The Digital Design and Emergent Media pathway teaches industry-based technical s
 - User Experience Design (UX)
 - Arduino
 - Social network 
-- web applications
+- Web applications
 - JavaScript
-- interactive web pages
-- physical computing
+- Interactive web pages
+- Physical computing
 {{< /spoiler >}}
 {{< spoiler text="Audio Technology" >}}
 - Music theory and composition
@@ -94,10 +94,10 @@ The Digital Design and Emergent Media pathway teaches industry-based technical s
 - Digital graphics 
 - Photoshop
 - Illustrator
-- rigging
-- planar tracking
-- rotoscoping
-- motion tracking 
+- Rigging
+- Planar tracking
+- Rotoscoping
+- Motion tracking 
 - Maya
 - Blender
 {{< /spoiler >}}
