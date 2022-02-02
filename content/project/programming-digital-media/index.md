@@ -57,3 +57,5 @@ physical computing into a deliverable artifact
 
 
 <a href="../../downloads/PDM.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Programming Digital Media Syllabus </button></a>
+
+<a href="https://pdm.lsupathways.org/" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Programming Digital Media Curriculum Page </button></a>

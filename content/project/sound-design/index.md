@@ -56,3 +56,5 @@ In the Sound Design course students are exposed to a wide variety of music style
 
 
 <a href="../../downloads/SoundDesign.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Sound Design Syllabus </button></a>
+
+<a href="https://sound-design.lsupathways.org/" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Sound Design Curriculum Page </button></a>

@@ -55,3 +55,6 @@ The purpose of this course is to get our students to become creators rather than
 
 
 <a href="../../downloads/DigitalStorytelling.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Digital Storytelling Syllabus </button></a>
+
+<a href="https://digital-storytelling.lsupathways.org/" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Digital Storytelling Curriculum Page </button></a>
+

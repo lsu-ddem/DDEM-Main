@@ -71,7 +71,7 @@ user_groups:
 ---
 The Digital Design and Emergent Media pathway teaches industry-based technical skills that prepare students for a career in creative technology. Click a dropdown to view some of the specific skills that are covered.
 
-{{< spoiler text="Creative Coding" >}}
+{{< spoiler text="Creative Coding &#x25BC; " >}}
 - User Interface Design (UID)
 - User Experience Design (UX)
 - Arduino
@@ -81,14 +81,14 @@ The Digital Design and Emergent Media pathway teaches industry-based technical s
 - Interactive web pages
 - Physical computing
 {{< /spoiler >}}
-{{< spoiler text="Audio Technology" >}}
+{{< spoiler text="Audio Technology &#x25BC; " >}}
 - Music theory and composition
 - Software synthesizers
 - DAWs such as Studio One and Protools
 - Recording techniques
 - Mixing and mastering
 {{< /spoiler >}}
-{{< spoiler text="Film and Graphics" >}}
+{{< spoiler text="Film and Graphics &#x25BC; " >}}
 - 2D and 3D game design
 - 2D and 3D animation
 - Digital graphics 
@@ -105,18 +105,18 @@ The Digital Design and Emergent Media pathway teaches industry-based technical s
 <br>
 DDEM classes are also designed to prepare students with marketable 21st century skills that are applicable in any field. 21st century skills can be broken down into three categories:
 
-{{< spoiler text="Learning Skills" >}}
+{{< spoiler text="Learning Skills &#x25BC; " >}}
   - Critical thinking
   - Creativity
   - Collaboration
   - Communication
 {{< /spoiler >}}
-{{< spoiler text="Literacy Skills" >}}
+{{< spoiler text="Literacy Skills &#x25BC; " >}}
   - Information literacy
   - Media literacy
   - Technology literacy
 {{< /spoiler >}}
-{{< spoiler text="Life Skills" >}}
+{{< spoiler text="Life Skills &#x25BC; " >}}
   - Flexibility
   - Leadership
   - Initiative
@@ -127,7 +127,7 @@ DDEM classes are also designed to prepare students with marketable 21st century 
 <br>
 The DDEM pathway is currently offered at 17 schools across Louisiana.
 
-{{< spoiler text="DDEM School List" >}}
+{{< spoiler text="DDEM School List &#x25BC; " >}}
 - Amite High School
 - Benjamin Franklin High School
 - Carencro High School
@@ -146,7 +146,7 @@ The DDEM pathway is currently offered at 17 schools across Louisiana.
 - Tara High School
 - Zachary High School
 {{< /spoiler >}}
-{{< spoiler text="DDEM School List by Course Offering" >}}
+{{< spoiler text="DDEM School List by Course Offering &#x25BC; " >}}
 - Advanced Film & TV
   - Denham Springs High School
   - Istrouma High School

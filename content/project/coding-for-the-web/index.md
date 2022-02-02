@@ -54,3 +54,5 @@ By the end of the class, students will have a firm grasp of JavaScript, and a wo
 
 
 <a href="../../downloads/CodingForTheWeb.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Coding for the Web Syllabus </button></a>
+
+<a href="https://coding-for-the-web.lsupathways.org/" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> Coding for the Web Curriculum Page </button></a>
