@@ -68,6 +68,10 @@ design:
 
 #### Photography, Digital Graphics, and Interactive Storytelling
 
+<img src="../images/Seasons.gif" alt ="Pixelated Gif of Seasons" width = 500px>
+
+<img src="../images/Baby.gif" alt ="Pixelated Gif of Person" width = 500px>
+
 <img src="../images/NaturePhoto1.jpg" alt ="Mushroom and Grass" width = 700px>
 
 <img src="../images/NaturePhoto2.jpg" alt ="Wasps on Nest" width = 700px>

@@ -51,11 +51,18 @@ weight = 2  # Order that this section will appear.
 <br>
 <div style="background-color:#0fbaad; padding: 50px; border-style: solid;">
 
-## **Teens Teaching Tech Call for Work Coming Soon** 
+## **Teens Teaching Tech Call for Work** 
 ## Due Friday, April 29th, 2022
 
 <br>
 Teens Teaching Tech is a video contest where students who understand a topic in technology can present a short video lesson. This is a great way to deepen students’ understanding of a topic by allowing them to explain something they find interesting in a creative way and receive constructive feedback regarding their presentations.  
+
+<br>
+<br>
+<b> Ready to submit your video? Please apply at the link below. </b>
+<br>
+<br>
+<a href="https://forms.gle/xQc2PAjEdZAVd3KG9" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> Submission Portal</button></a> 
 
 </div>
 
