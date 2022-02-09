@@ -49,7 +49,13 @@ title = "Links"
  css_class = ""
 +++
 <div style="background-color:#0fbaad; padding: 50px; border-style: solid;">
-For more information on the DDEM Pathway and printable flyers, please click a link below.
+The slides from our presentation at the <a href="https://capitalareastem.org/lastemsummit/summit2021.html" target="_blank">2022 LA STEM Summit</a> can be found at the link below.
+<br>
+<br>
+<a href="https://docs.google.com/presentation/d/1rn8CxmMDH9ltJvo3_nNU8gGRUwm7P-Zqwf1yfJ5PNvs/present#slide=id.p" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> DDEM STEM Summit Presentation </button> </a>
+<br>
+<br>
+For more information on the DDEM Pathway and printable flyers:
 <br>
 <br>
 <a href="../downloads/DDEMStudents.pdf" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> DDEM Student Flyer </button></a> <a href="../downloads/DDEMTeachers.pdf" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> DDEM Teacher Flyer </button></a> <a href="../downloads/DDEMAdmin.pdf" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> DDEM Administration Flyer </button></a> 
@@ -61,7 +67,7 @@ Some of the DDEM classes have accompanying videos introducing the curriculum.
 <a href="https://lsupathways.org/news/#DDEM" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> DDEM Class Introduction Videos </button></a> 
 <br>
 <br>
-To learn more about LSU STEM Pathways as a whole, follow the link below.
+To learn more about LSU STEM Pathways as a whole:
 <br>
 <br>
 <a href="https://lsupathways.org/" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> LSUPathways.org </button></a>
