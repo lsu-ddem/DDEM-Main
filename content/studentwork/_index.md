@@ -17,8 +17,8 @@ design:
 
 # **DDEM Student Work** 
 <br>
-<a href="#PDM"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Programming Digital Media </button></a> 
-<a href="#SoundDesign"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Sound Design </button></a> <a href="#DigitalStorytelling"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Digital Storytelling </button></a>
+<a href="#PDM"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 10px"> Programming Digital Media </button></a> 
+<a href="#SoundDesign"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 10px"> Sound Design </button></a> <a href="#DigitalStorytelling"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 10px"> Digital Storytelling </button></a>
 <br>
 <br>
 </div>
