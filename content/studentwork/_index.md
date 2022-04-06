@@ -18,7 +18,7 @@ design:
 # **DDEM Student Work** 
 <br>
 <a href="#PDM"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 10px"> Programming Digital Media </button></a> 
-<a href="#SoundDesign"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 10px"> Sound Design </button></a> <a href="#DigitalStorytelling"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 10px"> Digital Storytelling </button></a>
+<a href="#SoundDesign"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 10px"> Sound Design </button></a> <a href="#GD"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 10px"> Graphic Design </button></a> <a href="#DigitalStorytelling"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 10px"> Digital Storytelling </button></a> 
 <br>
 <br>
 </div>
@@ -61,6 +61,20 @@ design:
 <br>
 </a>
 <br>
+<a id = "GD">
+<br>
+
+## Graphic Design
+
+#### Digital Design and Drawing and Visual Communication
+
+Please visit our Milanote page at the link below to view a collection of student self portraits
+<br>
+<br>
+<a href="https://app.milanote.com/1NsnXj1CtBiXbx/students-self-portraits?p=lQ749x9vdnG" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Student Self Portraits </button></a> 
+<br>
+</a>
+<br>
 <a id = "DigitalStorytelling">
 <br>
 
@@ -88,6 +102,5 @@ design:
 <br>
 </a>
 </center>
-
 <br>
 <br>
