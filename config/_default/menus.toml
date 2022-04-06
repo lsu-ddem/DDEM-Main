@@ -30,7 +30,7 @@ name = "Announcements"
 
 [[main]]
   name = "Links"
-  url = "#links"
+  url = "links/"
   weight = 6
 
 [[main]]

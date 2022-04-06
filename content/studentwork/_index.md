@@ -68,7 +68,7 @@ design:
 
 #### Digital Design and Drawing and Visual Communication
 
-Please visit our Milanote page at the link below to view a collection of student self portraits
+Please visit our Milanote page at the link below to view a collection of student self portraits.
 <br>
 <br>
 <a href="https://app.milanote.com/1NsnXj1CtBiXbx/students-self-portraits?p=lQ749x9vdnG" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Student Self Portraits </button></a> 
