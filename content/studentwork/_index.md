@@ -82,6 +82,9 @@ Please click a link below to view a collection of student self portraits.
 <br>
 <a href="../images/Portrait4.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Student Self Portrait 4 </button></a> 
 <br>
+<br>
+<a href="../images/Portrait5.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Student Self Portrait 5 </button></a>
+<br>
 </a>
 <br>
 <a id = "DigitalStorytelling">
