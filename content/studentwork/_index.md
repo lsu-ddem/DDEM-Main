@@ -116,4 +116,3 @@ Please click a link below to view a collection of student self portraits.
 </center>
 <br>
 <br>
-
