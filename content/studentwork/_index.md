@@ -71,7 +71,6 @@ Click a link to view student self portraits.
 <br>
 <a id = "DigitalStorytelling">
 <br>
-<br>
 
 ## Digital Storytelling
 
