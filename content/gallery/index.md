@@ -5,8 +5,26 @@ headless = false  # This file represents a page section.
 active = false # Activate this widget? true/false
 weight = 66  # Order that this section will appear.
 
-title = "Student Work Image Gallery"
+title = ""
 subtitle = ""
 +++
+<center>
 
-{{< gallery album="gallery">}}
+## Nature Photography
+{{< gallery album="nature">}}
+
+<br>
+<br>
+
+## Comics
+{{< gallery album="comics">}}
+
+<br>
+<br>
+
+## Animation and GIFs
+{{< gallery album="gifs">}}
+
+<br>
+<br>
+</center>

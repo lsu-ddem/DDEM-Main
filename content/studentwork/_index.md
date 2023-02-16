@@ -71,30 +71,18 @@ Click a link to view student self portraits.
 <br>
 <a id = "DigitalStorytelling">
 <br>
+<br>
 
 ## Digital Storytelling
 
 #### Photography, Digital Graphics, and Interactive Storytelling
-
-<img src="../images/Seasons.gif" alt ="Pixelated Gif of Seasons" width = 500px>
-
-<img src="../images/Baby.gif" alt ="Pixelated Gif of Person" width = 500px>
-
-<img src="../images/NaturePhoto1.jpg" alt ="Mushroom and Grass" width = 700px>
-
-<img src="../images/NaturePhoto2.jpg" alt ="Wasps on Nest" width = 700px>
-
-<img src="../images/NaturePhoto3.jpg" alt ="Tree and Blue Sky" width = 700px>
-
-<img src="../images/NaturePhoto4.jpg" alt ="Fallen Tree and Grass" width = 700px>
-
-<img src="../images/NaturePhoto5.jpg" alt ="Spanish Moss and Web" width = 700px>
-
-<img src="../images/NaturePhoto6.jpg" alt ="Raindrops on Small Green Plant and Grass" width = 700px>
-
-<a href ="../images/comic.png" target = "_blank"><img src="../images/comic.png" alt ="Comic Panels" width = 720px></a>
+<img src = "../images/Seasons.gif" width=500>
+<a href="../gallery" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px">View Student Work Gallery </button></a>
+<br>
 <br>
 </a>
-</center>
+<br>
+<br>
+<br>
 <br>
 <br>
