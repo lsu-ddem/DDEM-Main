@@ -30,13 +30,13 @@ design:
 
 #### Motion Graphics and Interactive Media in p5
 <br>
-<iframe style="width: 400px; height: 450px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/LSU-DDEM/full/LirKIYzE_"></iframe>
+<iframe style="width: 400px; height: 450px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/LSU-DDEM/full/LirKIYzE_"></iframe> 
 
 <iframe style="width: 400px; height: 450px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/LSU-DDEM/full/0256HCqH1"></iframe>
 
-<iframe style="width: 400px; height: 450px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/LSU-DDEM/full/A8THU4sOr"></iframe>
+<!-- <iframe style="width: 400px; height: 450px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/LSU-DDEM/full/A8THU4sOr"></iframe>
 
-<iframe style="width: 400px; height: 450px; overflow: hidden;"  scrolling="no" frameborder="0"  src="https://editor.p5js.org/LSU-DDEM/full/xDUszLT3k"></iframe>
+<iframe style="width: 400px; height: 450px; overflow: hidden;"  scrolling="no" frameborder="0"  src="https://editor.p5js.org/LSU-DDEM/full/xDUszLT3k"></iframe> -->
 
 <iframe style="width: 801px; height: 801px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/LSU-DDEM/full/ZScF_lf7F"></iframe>
 
@@ -51,13 +51,7 @@ design:
 
 #### Music Composition and Recording Technology
 <br>
-<a href="../audio/../../../audio/Audio1.mp3" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> &#9658; Untitled 1 </button></a> 
-<br>
-<br>
-<a href="../audio/../../../audio/Audio2.mp3" target="_blank"><button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> &#9658; Untitled 2 </button></a> 
-<br>
-<br>
-<a href="../audio/../../../audio/Audio3.mp3" target="_blank"><button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> &#9658; Untitled 3 </button></a> 
+<a href="../audio/../../../audio/Audio1.mp3" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> &#9658; Untitled 1 </button></a> <a href="../audio/../../../audio/Audio2.mp3" target="_blank"><button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> &#9658; Untitled 2 </button></a> <a href="../audio/../../../audio/Audio3.mp3" target="_blank"><button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> &#9658; Untitled 3 </button></a> 
 <br>
 </a>
 <br>
@@ -68,22 +62,10 @@ design:
 
 #### Digital Design and Drawing and Visual Communication
 
-Please click a link below to view a collection of student self portraits.
+Click a link to view student self portraits.
 <br>
 <br>
-<a href="../images/Portrait1.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Student Self Portrait 1 </button></a> 
-<br>
-<br>
-<a href="../images/Portrait2.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Student Self Portrait 2 </button></a> 
-<br>
-<br>
-<a href="../images/Portrait3.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Student Self Portrait 3 </button></a> 
-<br>
-<br>
-<a href="../images/Portrait4.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Student Self Portrait 4 </button></a> 
-<br>
-<br>
-<a href="../images/Portrait5.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Student Self Portrait 5 </button></a>
+<a href="../images/Portrait1.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px">Portrait 1 </button></a> <a href="../images/Portrait2.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px">Portrait 2 </button></a> <a href="../images/Portrait3.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px">Portrait 3 </button></a> <a href="../images/Portrait4.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px">Portrait 4 </button></a> <a href="../images/Portrait5.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px">Portrait 5 </button></a>
 <br>
 </a>
 <br>
