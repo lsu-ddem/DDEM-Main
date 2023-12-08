@@ -68,7 +68,7 @@ Students in the Digital Design & Emergent Media pathway are invited to submit th
 - Web design, coding, and programming
 - Digital art and sound installations
 <center>
-<b>Teachers must review and submit on behalf of the students.</b>
+<b>Teachers must review and submit on behalf of their students.</b>
 <br>
 <br>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeBj6d7TqtyM3p99vKAZbJ-SFs9R17BbbaPLWKodYgkqGTgIw/viewform?usp=sf_link" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> Submission Portal</button></a> 
