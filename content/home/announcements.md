@@ -2,7 +2,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
 # title = "DDEM Announcements"
@@ -51,18 +51,31 @@ weight = 2  # Order that this section will appear.
 <br>
 <div style="background-color:#0fbaad; padding: 50px; border-style: solid;">
 
-## **Teens Teaching Tech Call for Work** 
-## Due Saturday May 7th, 2022
+<center>
 
+## **Digital Design Showcase** 
+## Friday, April 12, 2024 at LSU
+## Submission deadline: March 18, 2024
+</center>
 <br>
-Teens Teaching Tech is a video contest where students who understand a topic in technology can present a short video lesson. This is a great way to deepen students’ understanding of a topic by allowing them to explain something they find interesting in a creative way and receive constructive feedback regarding their presentations.  
+Students in the Digital Design & Emergent Media pathway are invited to submit their works for LSU Pathway's inaugural Digital Design Showcase! The Showcase will take place on <b>Friday, April 12, 2024</b> in LSU's Digital Media Center, a versatile exhibition space equipped to highlight a variety of categories of digital design, including but not limited to:
 
+- Graphic design
+- Motion graphics
+- Film and video
+- Sound design and music
+- Video games
+- Web design, coding, and programming
+- Digital art and sound installations
+<center>
+<b>Teachers must review and submit on behalf of the students.</b>
 <br>
 <br>
-<b> Ready to submit your video? Please apply at the link below. </b>
-<br>
-<br>
-<a href="https://forms.gle/xQc2PAjEdZAVd3KG9" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> Submission Portal</button></a> 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeBj6d7TqtyM3p99vKAZbJ-SFs9R17BbbaPLWKodYgkqGTgIw/viewform?usp=sf_link" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> Submission Portal</button></a> 
+<br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6gmGkra2opY?si=pwe4WK65gG0492j5" title="DDEM Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+</center>
 
 </div>
 
