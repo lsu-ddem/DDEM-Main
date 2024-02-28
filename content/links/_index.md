@@ -87,7 +87,7 @@ Some of the DDEM classes have accompanying videos introducing the curriculum.
 To learn more about LSU STEM Pathways as a whole:
 <br>
 <br>
-<a href="https://lsupathways.org/" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> LSUpathways.org </button></a>
+<a href="https://stempathways.lsu.edu" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> stempathways.lsu.edu </button></a>
 
 <br>
 <br>
