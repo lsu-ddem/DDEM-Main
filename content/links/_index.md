@@ -60,7 +60,13 @@ weight = 6  # Order that this section will appear.
 
 <br>
 </center>
-
+Two new courses are being offered by the DDEM program in 2024.
+<br>
+<br>
+<a href="../downloads/newddem.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> New DDEM course offerings</button></a> 
+<br>
+<br>
+<br>
 Slides from the 2022 DDEM STEM Summit Presentation 
 <br>
 *STEM Empowered Students and Agency in the Digital World*
