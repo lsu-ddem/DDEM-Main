@@ -52,10 +52,13 @@ weight = 2  # Order that this section will appear.
 <div style="background-color:#0fbaad; padding: 50px; border-style: solid;">
 
 <center>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeBj6d7TqtyM3p99vKAZbJ-SFs9R17BbbaPLWKodYgkqGTgIw/viewform?usp=sf_link" target="_blank"> <img src = "../images/showcase.png" alt="Digital Design Showcase is Friday April 12, 2024 at LSU. Submission deadline is March 22, 2024" width = "700" height ="700"> </a>
+<a href="../schedule" target="_blank"> <img src = "../images/showcase.png" alt="Digital Design Showcase is Friday April 12, 2024 at LSU. Submission deadline is March 22, 2024" width = "700" height ="700"> </a>
 <!-- ## **Digital Design Showcase** 
 ## Friday, April 12, 2024 at LSU
 ## Submission deadline: March 22, 2024 -->
+
+<br>
+<a href="../schedule" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> Showcase Schedule</button></a> 
 </center>
 <br>
 Students in the Digital Design & Emergent Media pathway are invited to submit their works for LSU Pathway's inaugural Digital Design Showcase! The Showcase will take place on <b>Friday, April 12, 2024</b> in LSU's Digital Media Center, a versatile exhibition space equipped to highlight a variety of categories of digital design, including but not limited to:
