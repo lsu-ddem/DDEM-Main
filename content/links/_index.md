@@ -58,24 +58,11 @@ weight = 6  # Order that this section will appear.
 </div>
 <br>
 
-<br>
-</center>
-Two new courses are being offered by the DDEM program in 2024.
-<br>
-<br>
-<a href="../downloads/newddem.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 15px"> New DDEM course offerings</button></a> 
-<br>
-<br>
-<br>
-Slides from the 2022 DDEM STEM Summit Presentation 
-<br>
-*STEM Empowered Students and Agency in the Digital World*
-<br>
-<br>
-<a href="https://docs.google.com/presentation/d/1rn8CxmMDH9ltJvo3_nNU8gGRUwm7P-Zqwf1yfJ5PNvs/present#slide=id.p" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> DDEM STEM Summit Slides</button> </a>
-<br>
-<br>
-<br>
+Esports and Introduction to Video Game Design are being offered by the DDEM program in 2024.
+
+<a href="../downloads/newddem.pdf" alt ="new DDEM courses include Esports and Video Game Design"><img src = "../images/newddem.jpg" width = 700> </a> 
+
+
 For more information on the DDEM Pathway and printable flyers:
 <br>
 <br>
@@ -97,3 +84,16 @@ To learn more about LSU STEM Pathways as a whole:
 
 <br>
 <br>
+
+</center>
+
+
+<!-- Slides from the 2022 DDEM STEM Summit Presentation 
+<br>
+"STEM Empowered Students and Agency in the Digital World"
+<br>
+<br>
+<a href="https://docs.google.com/presentation/d/1rn8CxmMDH9ltJvo3_nNU8gGRUwm7P-Zqwf1yfJ5PNvs/present#slide=id.p" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> DDEM STEM Summit Slides</button> </a>
+<br>
+<br>
+<br> -->

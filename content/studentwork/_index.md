@@ -62,12 +62,17 @@ design:
 
 #### Digital Design and Drawing and Visual Communication
 
-Click a link to view student self portraits.
 <br>
-<br>
-<a href="../images/Portrait1.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px">Portrait 1 </button></a> <a href="../images/Portrait2.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px">Portrait 2 </button></a> <a href="../images/Portrait3.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px">Portrait 3 </button></a> <a href="../images/Portrait4.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px">Portrait 4 </button></a> <a href="../images/Portrait5.pdf" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px">Portrait 5 </button></a>
-<br>
-</a>
+<table>
+  <tr>
+    <td style="border: 0;"><a href ="../images/Portrait1.pdf"> <img src = "../images/Portrait1.jpg" width="550" height="650"></a></td>
+    <td style="border: 0;"><a href= "../images/Portrait2.pdf"><img src = "../images/Portrait2.jpg" width="550" height="650"></a></td>
+    <td style="border: 0;"><a href= "../images/Portrait3.pdf"><img src = "../images/Portrait3.jpg" width="550" height="650"></a></td>
+    <td style="border: 0;"><a href= "../images/Portrait4.pdf"><img src = "../images/Portrait4.jpg" width="550" height="650"></a></td>
+    <td style="border: 0;"><a href= "../images/Portrait5.pdf"><img src = "../images/Portrait5.jpg" width="550" height="650"></a></td>
+  </tr>
+</table>
+
 <br>
 <a id = "DigitalStorytelling">
 <br>
@@ -76,7 +81,7 @@ Click a link to view student self portraits.
 
 #### Photography, Digital Graphics, and Interactive Storytelling
 <img src = "../images/Seasons.gif" width=500>
-<a href="../gallery" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px">View Student Work Gallery </button></a>
+<a href="../gallery"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px">View Digital Storytelling Gallery </button></a>
 <br>
 <br>
 </a>

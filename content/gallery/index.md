@@ -10,20 +10,34 @@ subtitle = ""
 +++
 <center>
 
-## Nature Photography
+## Photography
 {{< gallery album="nature">}}
 
 <br>
 <br>
 
 ## Comics
-{{< gallery album="comics">}}
+<table>
+  <tr>
+    <td style="border: 0;"><a href ="comics/comic1.jpg"> <img src = "comics/comic1.jpg" width="550" height="650"></a></td>
+    <td style="border: 0;"><a href= "comics/comic2.jpg"><img src = "comics/comic2.jpg" width="550" height="650"></a></td>
+    <td style="border: 0;"><a href= "comics/comic3.jpg"><img src = "comics/comic3.jpg" width="550" height="650"></a></td>
+    
+  </tr>
+</table>
 
 <br>
 <br>
 
 ## Animation and GIFs
-{{< gallery album="gifs">}}
+<table>
+  <tr>
+    <td style="border: 0;"><a href ="gifs/Seasons.gif"> <img src = "gifs/Seasons.gif" width="550" height="650"></a></td>
+    <td style="border: 0;"><a href= "gifs/Baby.gif"><img src = "gifs/Baby.gif" width="550" height="650"></a></td>
+
+    
+  </tr>
+</table>
 
 <br>
 <br>

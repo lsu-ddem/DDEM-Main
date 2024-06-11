@@ -37,8 +37,9 @@ This project involves the development and testing of a set of micro-credentials 
   - RAND Corporation
 
 <br>
-
+<center>
 <a href="../../downloads/MicrocredentialFlyer.pdf" target="_blank"><button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Micro-Credential Grant flyer </button></a> <a href="../../downloads/MicrocredentialGrant.pdf" target="_blank"><button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Micro-Credential Grant details </button></a> <a href="https://www.rand.org/education-and-labor/projects/STEM-micro-credentials.html" target="_blank"><button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> Learn more at rand.org </button></a> 
 
+</center>
 <br>
 <br>
