@@ -60,7 +60,7 @@ design:
 
 ## Graphic Design
 
-#### Digital Design and Drawing and Visual Communication
+#### Digital Design and Visual Communication
 
 <br>
 <table>
@@ -73,7 +73,6 @@ design:
   </tr>
 </table>
 
-<br>
 <a id = "DigitalStorytelling">
 <br>
 
