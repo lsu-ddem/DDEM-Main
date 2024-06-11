@@ -86,14 +86,3 @@ To learn more about LSU STEM Pathways as a whole:
 <br>
 
 </center>
-
-
-<!-- Slides from the 2022 DDEM STEM Summit Presentation 
-<br>
-"STEM Empowered Students and Agency in the Digital World"
-<br>
-<br>
-<a href="https://docs.google.com/presentation/d/1rn8CxmMDH9ltJvo3_nNU8gGRUwm7P-Zqwf1yfJ5PNvs/present#slide=id.p" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> DDEM STEM Summit Slides</button> </a>
-<br>
-<br>
-<br> -->
