@@ -22,7 +22,7 @@ design:
 <br>
 <br>
 </div>
-<br>
+
 <a id = "PDM">
 <br>
 
@@ -43,7 +43,7 @@ design:
 <!-- <iframe style="width: 800px; height: 800px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/LSU-DDEM/full/rrNloNYCU"></iframe>  -->
 <br>
 </a>
-<br>
+
 <a id = "SoundDesign">
 <br>
 
@@ -54,7 +54,7 @@ design:
 <a href="../audio/../../../audio/Audio1.mp3" target="_blank"> <button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> &#9658; Untitled 1 </button></a> <a href="../audio/../../../audio/Audio2.mp3" target="_blank"><button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> &#9658; Untitled 2 </button></a> <a href="../audio/../../../audio/Audio3.mp3" target="_blank"><button style= "background-color:#0fbaad; border: none ; border-radius: 5px; padding: 10px"> &#9658; Untitled 3 </button></a> 
 <br>
 </a>
-<br>
+
 <a id = "GD">
 <br>
 
