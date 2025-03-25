@@ -76,19 +76,14 @@ The Digital Media Center offers a dynamic and professional exhibition environmen
 🚀 XR studio, immersive audio, & DMC Theatre demos <br>
 🤝 Networking with LSU faculty & industry professionals <br>
 
-<center>
+
 <b> Deadline to confirm attendance is March 28, 2025. <br>
-Deadline to submit student work is April 4, 2025.  </b><br><br>
-</center>
-
-
-
-<center>
-<!-- <a href = "https://docs.google.com/forms/d/e/1FAIpQLSfQKOqJ-Y2m3g7A9YGLiGkvl8E4Erv0K6j4fqvDbvUci8LUDA/viewform" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> RSVP & Student Submission Form</button> </a> <br><br> -->
+Deadline to submit student work is April 4, 2025.  </b><br>
 
 Please reach out to lsuddem@gmail.com for guidance on how to submit digital files or portfolios for this year’s showcase. Submission instructions will be provided directly to participating schools and teachers.
 
 <br> 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6gmGkra2opY?si=pwe4WK65gG0492j5" title="DDEM Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </center>
 

@@ -71,7 +71,7 @@ LSU Digital Media Center <br>
     <td>  Room 1014</td>
   </tr>
   <tr>
-    <td> noon </td>
+    <td> Noon </td>
     <td>  </td>
     <td> </td>
   </tr>
