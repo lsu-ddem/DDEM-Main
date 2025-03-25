@@ -52,17 +52,17 @@ weight = 2  # Order that this section will appear.
 <div style="background-color:#0fbaad; padding: 50px; border-style: solid;">
 
 <center>
-<a href="../schedule" target="_blank"> <img src = "../images/showcase.png" alt="Digital Design Showcase is Friday April 12, 2024 at LSU. Submission deadline is March 22, 2024" width = "700" height ="700"> </a>
-<!-- ## **Digital Design Showcase** 
-## Friday, April 12, 2024 at LSU
-## Submission deadline: March 22, 2024 -->
+<a href="../schedule" target="_blank"> <img src = "../images/showcase.png" alt="Digital Design Showcase is Friday, April 11 from 8:30 a.m. to 1:30 p.m. at the LSU Digtal Media Center. Submission deadline is April 4, 2025" width = "700" height ="700"> </a>
 
-<br>
+## **2025 Digital Design Showcase** 
+ ## Friday, April 11, 2025 8:30am-1:30pm  <br> <br>
+
 <a href="../schedule" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> Showcase Schedule</button></a> 
 </center>
 <br>
-Students in the Digital Design & Emergent Media pathway are invited to submit their works for LSU Pathway's inaugural Digital Design Showcase! The Showcase will take place on <b>Friday, April 12, 2024</b> in LSU's Digital Media Center, a versatile exhibition space equipped to highlight a variety of categories of digital design, including but not limited to:
+We are excited to announce the 2025 Digital Design Showcase taking place <b>Friday, April 11, 8:30am-1:30pm</b> at the LSU Digital Media Center. This annual event celebrates the creativity, innovation, and hard work of students participating in LSU STEM Pathways programs. <br> <br>
 
+The Digital Media Center offers a dynamic and professional exhibition environment, fully equipped to highlight a wide range of digital design work. Categories include, but are not limited to:
 - Graphic design
 - Motion graphics
 - Film and video
@@ -70,8 +70,25 @@ Students in the Digital Design & Emergent Media pathway are invited to submit th
 - Video games
 - Web design, coding, and programming
 - Digital art and sound installations
+
+**Showcase Highlights:** <br>
+🎭 Live student presentations <br>
+🚀 XR studio, immersive audio, & DMC Theatre demos <br>
+🤝 Networking with LSU faculty & industry professionals <br>
+
 <center>
-<br>
+<b> Deadline to confirm attendance is March 28, 2025. <br>
+Deadline to submit student work is April 4, 2025.  </b><br><br>
+</center>
+
+
+
+<center>
+<a href = "https://docs.google.com/forms/d/e/1FAIpQLSfQKOqJ-Y2m3g7A9YGLiGkvl8E4Erv0K6j4fqvDbvUci8LUDA/viewform" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> RSVP & Student Submission Form</button> </a> <br><br>
+
+Please reach out to lsuddem@gmail.com for guidance on how to submit digital files or portfolios for this year’s showcase. Submission instructions will be provided directly to participating schools and teachers.
+
+<br> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6gmGkra2opY?si=pwe4WK65gG0492j5" title="DDEM Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </center>
 
