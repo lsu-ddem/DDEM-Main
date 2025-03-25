@@ -55,12 +55,12 @@ weight = 2  # Order that this section will appear.
 <a href="../schedule" target="_blank"> <img src = "../images/showcase.png" alt="Digital Design Showcase is Friday, April 11 from 8:30 a.m. to 1:30 p.m. at the LSU Digtal Media Center. Submission deadline is April 4, 2025" width = "700" height ="700"> </a>
 
 ## **2025 Digital Design Showcase** 
- ## Friday, April 11, 2025 8:30am-1:30pm  <br> <br>
+ ## Friday, April 11, 2025 8:30 a.m. – 1:30 p.m.  <br> <br>
 
 <a href="../schedule" target="_blank"> <button style= "background-color:#F9F5F4; border: none ; border-radius: 5px; padding: 15px"> Showcase Schedule</button></a> 
 </center>
 <br>
-We are excited to announce the 2025 Digital Design Showcase taking place <b>Friday, April 11, 8:30am-1:30pm</b> at the LSU Digital Media Center. This annual event celebrates the creativity, innovation, and hard work of students participating in LSU STEM Pathways programs. <br> <br>
+We are excited to announce the 2025 Digital Design Showcase taking place <b>Friday, April 11, 8:30 a.m. – 1:30 p.m.</b> at the LSU Digital Media Center. This annual event celebrates the creativity, innovation, and hard work of students participating in LSU STEM Pathways programs. <br> <br>
 
 The Digital Media Center offers a dynamic and professional exhibition environment, fully equipped to highlight a wide range of digital design work. Categories include, but are not limited to:
 - Graphic design

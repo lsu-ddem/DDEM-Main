@@ -25,7 +25,7 @@ design:
 <br>
 
 Friday, April 11, 2025 <br>
-8:30am-1:30pm <br>
+8:30 a.m. – 1:30 p.m. <br>
 LSU Digital Media Center <br>
 340 E Parker Blvd, Baton Rouge, LA 70803 <br><br>
 
@@ -36,17 +36,17 @@ LSU Digital Media Center <br>
     <th>Location</th>
   </tr>
   <tr>
-    <td>8:30am</td>
+    <td>8:30 a.m.</td>
     <td>Student Showcase I – Presentations Begin</td>
     <td>Digital Media Center Lobby</td>
   </tr>
   <tr>
-    <td>9:30am</td>
+    <td>9:30 a.m.</td>
     <td>Welcome & Remarks from Pathways Faculty</td>
     <td>Digital Media Center Lobby</td>
   </tr>
   <tr>
-    <td>10:00am </td>
+    <td>10:00 a.m. </td>
     <td> Showcase II – Featured Student Work</td>
     <td> DMC Theatre</td>
   </tr>
@@ -76,12 +76,12 @@ LSU Digital Media Center <br>
     <td> </td>
   </tr>
   <tr>
-    <td> 12:30pm </td>
+    <td> 12:30 p.m. </td>
     <td> Student Showcase III – Final Presentations </td>
     <td> Digital Media Center Lobby</td>
   </tr>
     <tr>
-    <td> 1:30pm </td>
+    <td> 1:30 p.m. </td>
     <td> Departure</td>
     <td> </td>
   </tr>
